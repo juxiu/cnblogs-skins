@@ -1,1 +1,3 @@
-console.log('加载了这个js文件');
+function aaa() {
+    console.log('加载了aaaa');
+}
